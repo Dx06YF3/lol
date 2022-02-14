@@ -1,4 +1,4 @@
-#Github.com-Vasusen-code
+#hb
 
 git+https://github.com/New-dev0/Telethon/tree/Vector #Until telethon update
 
